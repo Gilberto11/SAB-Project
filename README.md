@@ -1,41 +1,19 @@
-SAB-Project
+# SAB-Project
 
-Your tasks as a team are as follows:
-Team Project worth: [70%]
-Handout Date: Week 1
-Tasks Due Date Responsibility Mark
-Microsoft Database for
-company
-Week 9 Group 20%
-UML (Use Case Diagrams) Week 9 Group 5%
-Report and User Guide(1) Week 13 Individual N/A
-GitHub for File
-Management
-Week 14 Group 5%
-Trello for Mapping tasks
-(Gantt Chart)
-Week 14 Group 5%
-WordPress website on
-Cloud 9 Server
-Week 14 Group 10%
-Presentation Week 13+14 Group
-
-
-Requirements
 1) Relational Database – Microsoft Software.
 You are required to create a database for the company using the data provided in the Excel
 Workbook but also additional data that you think might be useful for the company. The additional
 data will be additional fields that you think are relevant and some additional records (e.g. 6 more
 records in each table)
 The database must:
- Have minimum:
- 4 tables,
- 2 Queries/SQL statements,
- 4 Reports and Forms.
- Must be navigable (i.e. easy to use).
- Have a Suggestion Form so that staff members can leave suggestions on how to improve
+Have minimum:
+4 tables,
+2 Queries/SQL statements,
+4 Reports and Forms.
+Must be navigable (i.e. easy to use).
+Have a Suggestion Form so that staff members can leave suggestions on how to improve
 the business.
- Branding: Please note it’s important to come up with a colour scheme for your company.
+Branding: Please note it’s important to come up with a colour scheme for your company.
 Ideally the three colour rule will apply. These colours can be used throughout your project.
 2) UML (Use Case Diagrams)
 You are required to create a Use Case Diagram for your database demonstrating how data flows.
@@ -58,8 +36,32 @@ produce a Gantt Chart of the result.
 5) WordPress
 You will be required to create a Website on WordPress for your Company. The web site should
 contain as a minimum the following:
- Home Page
- About Us Page
- Products Page
- Contact Us Page
+Home Page
+About Us Page
+Products Page
+Contact Us Page
 The website is required to be hosted and loaded on Cloud 9 server.
+Software Applications for Business Year 1 Assignment 1
+7
+6) Presentation
+This is a group presentation that lasts 10 minutes. Everyone should present. The presentation
+should contain:
+Introduction to your team and the role each member played.
+An outline of the tasks performed and by whom (e.g. Who prepared the Gantt Chart).
+An overview of Database and UML Charts.
+What software each team member decided to investigate (include a screenshot of
+each user guide). As part of their individual project, each team member will have
+prepared a user guide for the software relating to their role in MCTV, there will be
+four user guides per team.
+Branding – Colour Scheme
+Conclusion – Future Development for the Company
+Note (1)
+Report and User Guide Week 13 Individual 20%
+1) Report (Individual Deliverable)
+As mentioned above, you are required to present a written report on your chosen software
+(See earlier Section Individual Report (p.3) elements a) to e). Each person in the group is
+required to complete this element individually. The report should be between 1,500 and
+2,000 words.
+The User Guide should contain two sections, one on ‘How to get Started’ with the software,
+and one on how to perform one task, using the software. The User Guide should be about 4-
+5 pages long. 
